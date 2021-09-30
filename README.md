@@ -1,1 +1,1 @@
-<img src="https://github.com/Marcosgois/Marcosgois/blob/main/Profile%20MG.gif">
+<img src="https://github.com/Marcosgois/Marcosgois/blob/main/Profile MG.gif">
